@@ -22,7 +22,8 @@
     {
       "name": "Skills",
       "keywords": [ "SQL", "Tableau", "Google Data Studio", "BigQuary", "Google Office" ]
-    },
+    }
+    ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
