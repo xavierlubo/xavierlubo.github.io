@@ -1,0 +1,45 @@
+{
+  "basics": {
+    "name": "Xavier Luboviski",
+    "label": "Student",
+    "picture": "https://github.com/xavierlubo.png",
+    "email": "xavierl@hawaii.edu",
+    "phone": "510-821-4443",
+    "website": "https://xavierlubo.github.io",
+    "summary": "I am studying for a BBA in Management Information Systems at the University of Hawaii Manoa. I expect to graduate in May of 2023.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "Xavierlubo", "url": "http://github.com/xavierlubo" },
+      { "network": "linkedin", "username": "Xavierlubo", "url": "https://www.linkedin.com/in/xavier-luboviski-7855391b5/" }
+    ]
+  },
+  "interests": [
+    { "name": "Product Management" },
+    { "name": "Data Analysis" },
+    { "name": "Artifical Intelligance" }
+  ],
+  "skills": [
+    {
+      "name": "Skills",
+      "keywords": [ "SQL", "Tableau", "Google Data Studio", "BigQuary", "Microsoft Office" ]
+    }
+    ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected May, 2023)",
+      "studyType": "BBA",
+    }
+  ],
+  "work": [
+    {
+      "company": "A.C.E - Action for the Climate Emergency",
+      "position": "Data Analyst Intern",
+      "startDate": "2021-04",
+      "endDate": "2021-11",
+      "summary": " Remaking all of A.C.E.'s dashboards from BigQuary to Tableau, daily data connecter checks fixing problems when they arose, analyzing thousands of surveys to help reshape company and  presented findings to entire company",
+    }
+    ],
+   
+}
+ 
